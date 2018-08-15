@@ -5,64 +5,64 @@ Available here: https://www.dbnl.org/tekst/noor041gave01_01/index.php
 Below follows a list of placenames in dataset, with notes on places that were manually checked and improved.
 In general, I did not rigorously check the place or region label. Most places/regions I should have gotten right by familiarity, but that is no guarantee.
 
-name;latitude;longitude;type;notes 
-"Alkmaar";52.631836;4.749805;place;
-"Amsterdam";52.366665;4.90994;place;
-"Bleiswijk";52.010155;4.5385156;place;
-"Bodegraven";52.080833;4.748611;place;
-"Bommenede";51.733154;3.9529548;place;"Seems accurate, even if the place is gone."
-"Brielle";51.902126;4.163787;place;
-"Delfshaven";51.904884;4.453553;place;"Now a section of Rotterdam. Was a separate place until 1886. https://en.wikipedia.org/wiki/Delfshaven"
-"Delft";52.008892;4.357284;place;
-"Den Haag";52.073586;4.299655;place;
-"Den Helder";52.949436;4.7584095;place;
-"Dordrecht";51.81;4.690093;place;
-"Edam";52.508854;5.054191;place;
-"Egmond";52.61861;4.6466665;place;"Fairly accurate Noordegraaf doesn't differentiate between the three closely related/located Egmond aan Zee, Egmond Binnen, and Egmond aan den Hoef."
-"Emmeloord";52.71083;5.748889;place;
-"Enkhuizen";52.70559;5.280714;place;
-"Geertruidenberg";51.697693;4.87836;place;
-"Gorinchem";51.836872;4.974998;place;
-"Gouda";52.017365;4.708115;place;
-"Haarlem";52.38079;4.6422777;place;
-"Hardinxveld";51.82879;4.8380556;place;
-"Het Gooi";52.233333;5.216667;region;"Wrong location by georeferencer, averaging between two different places. Het Gooi is a region, https://en.wikipedia.org/wiki/Gooi"
-"Heukelum";51.87151;5.076667;place;
-"Heusden";51.683333;5.133333;place;"There is 2 Heusdens in NL, and 2 in Belgium. From the source it is clear it is the one near Culemborg."
-"Hoorn";52.64184;5.058755;place;"From the source clear that it is the Hoorn in West-Friesland (Noord-Holland)."
-"Huisduinen";52.952805;4.725348;place;
-"Ilpendam";52.46333;4.9511113;place;
-"Kennemerland";52.466667;4.75;region;"From source clear that it is near (north of) Haarlem. https://en.wikipedia.org/wiki/Kennemerland. Assendelft is a decent description of its center, based on the 1681 map of the netherlands in this article."
-"Koedijk";52.675;4.7483335;place;
-"Langedijk";52.692562;4.800002;place;
-"Leiden";52.157776;4.49278;place;
-"Loosdrecht";52.20292;5.0851693;place;
-"Medemblik";52.76745;5.106918;place;
-"Monnickendam";52.45557;5.0375;place;
-"Naarden";52.295544;5.16253;place;
-"Noorderkwartier";52.66785;4.822118;region;"https://en.wikipedia.org/wiki/Noorderkwartier = North Holland region"
-"Noordholland";52.520588;4.788474;region;"Region. Basically the same region as Noorderkwartier"
-"Oud- en Nieuw-Matenesse";51.909325;4.4271045;place;"Now a burrough of Rotterdam, like Delfshaven. https://en.wikipedia.org/wiki/Oud-_en_Nieuw-Mathenesse"
-"Oudewater";52.025833;4.8682384;place;"Formerly a village."
-"Overschie";51.938328;4.4294443;place;
-"Purmerend";52.505;4.95972;place;
-"Rotterdam";51.9179;4.4779;place;"Improved by using 51.9179, 4.4779 (Rotterdam Centrum)."
-"Schagen";52.787796;4.802025;place;
-"Schermeer";52.599598;4.8937087;region;"It found Schermerhorn, which is the location just north of the lake (Scher-meer). Source refers to another book about this region, (de Schermer, Schermermeer), so location is quite accurate."
-"Scheveningen";52.103756;4.28193;place;
-"Schiedam";51.918613;4.393056;place;
-"Schoonhoven";51.9475;4.84939;place;
-"Schoonrewoerd";51.92083;5.11667;place;
-"Sleeuwijk";51.815277;4.9525;place;
-"St. Pancras";52.663056;4.785278;place;"Not found by georeferencing. Manual check of Wikipedia works under "Sint Pancras". https://nl.wikipedia.org/wiki/Sint_Pancras"
-"Texel";53.07883;4.813936;region;"Region (Island)
-"Vlaardingen";51.912285;4.3375015;place;
-"Vlieland";53.258335;4.9558334;region;"Region (Island). Although there is one place in South-Holland also called Vlieland. Source is from Twisck, who published in Hoorn, so Vlieland is probably the island."
-"Voorburg";52.077244;4.381965;place;
-"Waterland";52.466667;4.95;region;"From source clear that this deals with region just east of Kennemerland. There is a waterland northeast of Amsterdam (but one is near Rotterdam, and one in Zeeland.). We can use Ilpendam as its center, based on map in https://en.wikipedia.org/wiki/Kennemerland"
-"Wieringen";52.9;4.96;place;
-"Woerden";52.085278;4.884304;place;
-"Wormer";52.495;4.82868;place;
-"Woudrichem";51.815;5.0026; place;
-"Zevenbergen";51.646065;4.6075225;place;"Most Zevenbergens are near Rotterdam, one is in the east of the country. From source referring to the same source (Charlier) it is clear it is the one in Holland. https://deoranjeboom.nl/wp-content/uploads/2015/02/Jb-26-1973-06.pdf"
-"Zevenhuizen";52.010833;4.58;place;"Zevenhuizen exists all through the Netherlands. From Source clear that it is the Zevenhuizen near Bleiswijk."
+name,latitude,longitude,type,notes 
+"Alkmaar",52.631836,4.749805,place,
+"Amsterdam",52.366665,4.90994,place,
+"Bleiswijk",52.010155,4.5385156,place,
+"Bodegraven",52.080833,4.748611,place,
+"Bommenede",51.733154,3.9529548,place,"Seems accurate, even if the place is gone."
+"Brielle",51.902126,4.163787,place,
+"Delfshaven",51.904884,4.453553,place,"Now a section of Rotterdam. Was a separate place until 1886. https://en.wikipedia.org/wiki/Delfshaven"
+"Delft",52.008892,4.357284,place,
+"Den Haag",52.073586,4.299655,place,
+"Den Helder",52.949436,4.7584095,place,
+"Dordrecht",51.81,4.690093,place,
+"Edam",52.508854,5.054191,place,
+"Egmond",52.61861,4.6466665,place,"Fairly accurate Noordegraaf doesn't differentiate between the three closely related/located Egmond aan Zee, Egmond Binnen, and Egmond aan den Hoef."
+"Emmeloord",52.71083,5.748889,place,
+"Enkhuizen",52.70559,5.280714,place,
+"Geertruidenberg",51.697693,4.87836,place,
+"Gorinchem",51.836872,4.974998,place,
+"Gouda",52.017365,4.708115,place,
+"Haarlem",52.38079,4.6422777,place,
+"Hardinxveld",51.82879,4.8380556,place,
+"Het Gooi",52.233333,5.216667,region,"Wrong location by georeferencer, averaging between two different places. Het Gooi is a region, https://en.wikipedia.org/wiki/Gooi"
+"Heukelum",51.87151,5.076667,place,
+"Heusden",51.683333,5.133333,place,"There is 2 Heusdens in NL, and 2 in Belgium. From the source it is clear it is the one near Culemborg."
+"Hoorn",52.64184,5.058755,place,"From the source clear that it is the Hoorn in West-Friesland (Noord-Holland)."
+"Huisduinen",52.952805,4.725348,place,
+"Ilpendam",52.46333,4.9511113,place,
+"Kennemerland",52.466667,4.75,region,"From source clear that it is near (north of) Haarlem. https://en.wikipedia.org/wiki/Kennemerland. Assendelft is a decent description of its center, based on the 1681 map of the netherlands in this article."
+"Koedijk",52.675,4.7483335,place,
+"Langedijk",52.692562,4.800002,place,
+"Leiden",52.157776,4.49278,place,
+"Loosdrecht",52.20292,5.0851693,place,
+"Medemblik",52.76745,5.106918,place,
+"Monnickendam",52.45557,5.0375,place,
+"Naarden",52.295544,5.16253,place,
+"Noorderkwartier",52.66785,4.822118,region,"https://en.wikipedia.org/wiki/Noorderkwartier = North Holland region"
+"Noordholland",52.520588,4.788474,region,"Region. Basically the same region as Noorderkwartier"
+"Oud- en Nieuw-Matenesse",51.909325,4.4271045,place,"Now a burrough of Rotterdam, like Delfshaven. https://en.wikipedia.org/wiki/Oud-_en_Nieuw-Mathenesse"
+"Oudewater",52.025833,4.8682384,place,"Formerly a village."
+"Overschie",51.938328,4.4294443,place,
+"Purmerend",52.505,4.95972,place,
+"Rotterdam",51.9179,4.4779,place,"Improved by using 51.9179, 4.4779 (Rotterdam Centrum)."
+"Schagen",52.787796,4.802025,place,
+"Schermeer",52.599598,4.8937087,region,"It found Schermerhorn, which is the location just north of the lake (Scher-meer). Source refers to another book about this region, (de Schermer, Schermermeer), so location is quite accurate."
+"Scheveningen",52.103756,4.28193,place,
+"Schiedam",51.918613,4.393056,place,
+"Schoonhoven",51.9475,4.84939,place,
+"Schoonrewoerd",51.92083,5.11667,place,
+"Sleeuwijk",51.815277,4.9525,place,
+"St. Pancras",52.663056,4.785278,place,"Not found by georeferencing. Manual check of Wikipedia works under "Sint Pancras". https://nl.wikipedia.org/wiki/Sint_Pancras"
+"Texel",53.07883,4.813936,region,"Region (Island)
+"Vlaardingen",51.912285,4.3375015,place,
+"Vlieland",53.258335,4.9558334,region,"Region (Island). Although there is one place in South-Holland also called Vlieland. Source is from Twisck, who published in Hoorn, so Vlieland is probably the island."
+"Voorburg",52.077244,4.381965,place,
+"Waterland",52.466667,4.95,region,"From source clear that this deals with region just east of Kennemerland. There is a waterland northeast of Amsterdam (but one is near Rotterdam, and one in Zeeland.). We can use Ilpendam as its center, based on map in https://en.wikipedia.org/wiki/Kennemerland"
+"Wieringen",52.9,4.96,place,
+"Woerden",52.085278,4.884304,place,
+"Wormer",52.495,4.82868,place,
+"Woudrichem",51.815,5.0026, place,
+"Zevenbergen",51.646065,4.6075225,place,"Most Zevenbergens are near Rotterdam, one is in the east of the country. From source referring to the same source (Charlier) it is clear it is the one in Holland. https://deoranjeboom.nl/wp-content/uploads/2015/02/Jb-26-1973-06.pdf"
+"Zevenhuizen",52.010833,4.58,place,"Zevenhuizen exists all through the Netherlands. From Source clear that it is the Zevenhuizen near Bleiswijk."
