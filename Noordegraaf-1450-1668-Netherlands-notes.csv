@@ -48,8 +48,8 @@ name,latitude,longitude,type,notes
 "Schoonhoven",51.9475,4.84939,place,
 "Schoonrewoerd",51.92083,5.11667,place,
 "Sleeuwijk",51.815277,4.9525,place,
-"St. Pancras",52.663056,4.785278,place,"Not found by georeferencing. Manual check of Wikipedia works under "Sint Pancras". https://nl.wikipedia.org/wiki/Sint_Pancras"
-"Texel",53.07883,4.813936,region,"Region (Island)
+"St. Pancras",52.663056,4.785278,place,"Not found by georeferencing. Manual check of Wikipedia works under 'Sint Pancras'. https://nl.wikipedia.org/wiki/Sint_Pancras"
+"Texel",53.07883,4.813936,region,"Region (Island)"
 "Vlaardingen",51.912285,4.3375015,place,
 "Vlieland",53.258335,4.9558334,region,"Region (Island). Although there is one place in South-Holland also called Vlieland. Source is from Twisck, who published in Hoorn, so Vlieland is probably the island."
 "Voorburg",52.077244,4.381965,place,
