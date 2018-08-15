@@ -1,11 +1,5 @@
-Source:
-Noordegraaf, Leo, and Gerrit Valk. n.d. De Gave Gods. De Pest in Holland Vanaf de Late Middeleeuwen. DBNL.
-Available here: https://www.dbnl.org/tekst/noor041gave01_01/index.php
-
-Below follows a list of placenames in dataset, with notes on places that were manually checked and improved.
-In general, I did not rigorously check the place or region label. Most places/regions I should have gotten right by familiarity, but that is no guarantee.
-
 name,latitude,longitude,type,notes 
+"",,,,"Source: Noordegraaf, Leo, and Gerrit Valk. n.d. De Gave Gods. De Pest in Holland Vanaf de Late Middeleeuwen. DBNL. Available here: https://www.dbnl.org/tekst/noor041gave01_01/index.php . Below follows a list of placenames in dataset, with notes on places that were manually checked and improved. In general, I did not rigorously check the place or region label. Most places/regions I should have gotten right by familiarity, but that is no guarantee."
 "Alkmaar",52.631836,4.749805,place,
 "Amsterdam",52.366665,4.90994,place,
 "Bleiswijk",52.010155,4.5385156,place,
