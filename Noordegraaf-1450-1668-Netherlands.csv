@@ -43,6 +43,7 @@ DateTime,name,latitude,longitude,type
 1521/01/01 01:01,"Gouda",52.017365,4.708115,place
 1522/01/01 01:01,"Amsterdam",52.366665,4.90994,place
 1523/01/01 01:01,"Gorinchem",51.836872,4.974998,place
+1523/01/01 01:01,"Schoonhoven",51.9475,4.84939,place
 1524/01/01 01:01,"Leiden",52.157776,4.49278,place
 1525/01/01 01:01,"Leiden",52.157776,4.49278,place
 1525/01/01 01:01,"Haarlem",52.38079,4.6422777,place
@@ -66,6 +67,7 @@ DateTime,name,latitude,longitude,type
 1550/01/01 01:01,"Amsterdam",52.366665,4.90994,place
 1554/01/01 01:01,"Amsterdam",52.366665,4.90994,place
 1555/01/01 01:01,"Gorinchem",51.836872,4.974998,place
+1555/01/01 01:01,"Haarlem",52.38079,4.6422777,place
 1556/01/01 01:01,"Leiden",52.157776,4.49278,place
 1557/01/01 01:01,"Amsterdam",52.366665,4.90994,place
 1557/01/01 01:01,"Leiden",52.157776,4.49278,place
@@ -95,7 +97,6 @@ DateTime,name,latitude,longitude,type
 1568/01/01 01:01,"Leiden",52.157776,4.49278,place
 1568/01/01 01:01,"Gorinchem",51.836872,4.974998,place
 1568/01/01 01:01,"Heukelum",51.87151,5.076667,place
-1568/01/01 01:01,"Scheveningen",52.103756,4.28193,place
 1568/01/01 01:01,"Sleeuwijk",51.815277,4.9525,place
 1571/01/01 01:01,"Schiedam",51.918613,4.393056,place
 1572/01/01 01:01,"Leiden",52.157776,4.49278,place
@@ -235,7 +236,7 @@ DateTime,name,latitude,longitude,type
 1624/01/01 01:01,"Delft",52.008892,4.357284,place
 1624/01/01 01:01,"Alkmaar",52.631836,4.749805,place
 1624/01/01 01:01,"Heusden",51.683333,5.133333,place
-1624/01/01 01:01,"Noorderkwartier",52.66785,4.822118,region
+1624/01/01 01:01,"Noorderkwartier",52.549903,4.826678,region
 1624/01/01 01:01,"Vlieland",53.258335,4.9558334,region
 1625/01/01 01:01,"Amsterdam",52.366665,4.90994,place
 1625/01/01 01:01,"Rotterdam",51.9179,4.4779,place
@@ -243,7 +244,7 @@ DateTime,name,latitude,longitude,type
 1625/01/01 01:01,"Schiedam",51.918613,4.393056,place
 1625/01/01 01:01,"Delft",52.008892,4.357284,place
 1625/01/01 01:01,"Heusden",51.683333,5.133333,place
-1625/01/01 01:01,"Noorderkwartier",52.66785,4.822118,region
+1625/01/01 01:01,"Noorderkwartier",52.549903,4.826678,region
 1626/01/01 01:01,"Amsterdam",52.366665,4.90994,place
 1626/01/01 01:01,"Rotterdam",51.9179,4.4779,place
 1627/01/01 01:01,"Delft",52.008892,4.357284,place
@@ -290,6 +291,7 @@ DateTime,name,latitude,longitude,type
 1637/01/01 01:01,"Rotterdam",51.9179,4.4779,place
 1637/01/01 01:01,"Dordrecht",51.81,4.690093,place
 1637/01/01 01:01,"Gouda",52.017365,4.708115,place
+1637/01/01 01:01,"Enkhuizen",52.70559,5.280714,place
 1637/01/01 01:01,"Gorinchem",51.836872,4.974998,place
 1637/01/01 01:01,"Haarlem",52.38079,4.6422777,place
 1637/01/01 01:01,"Heusden",51.683333,5.133333,place
@@ -320,7 +322,7 @@ DateTime,name,latitude,longitude,type
 1655/01/01 01:01,"Delft",52.008892,4.357284,place
 1655/01/01 01:01,"Alkmaar",52.631836,4.749805,place
 1655/01/01 01:01,"Den Haag",52.073586,4.299655,place
-1655/01/01 01:01,"Noorderkwartier",52.66785,4.822118,region
+1655/01/01 01:01,"Noorderkwartier",52.549903,4.826678,region
 1655/01/01 01:01,"Naarden",52.295544,5.16253,place
 1656/01/01 01:01,"Amsterdam",52.366665,4.90994,place
 1656/01/01 01:01,"Rotterdam",51.9179,4.4779,place
@@ -328,8 +330,9 @@ DateTime,name,latitude,longitude,type
 1656/01/01 01:01,"Hoorn",52.64184,5.058755,place
 1656/01/01 01:01,"Alkmaar",52.631836,4.749805,place
 1656/01/01 01:01,"Den Haag",52.073586,4.299655,place
-1656/01/01 01:01,"Noorderkwartier",52.66785,4.822118,region
+1656/01/01 01:01,"Noorderkwartier",52.549903,4.826678,region
 1656/01/01 01:01,"Naarden",52.295544,5.16253,place
+1656/01/01 01:01,"Scheveningen",52.103756,4.28193,place
 1657/01/01 01:01,"Amsterdam",52.366665,4.90994,place
 1657/01/01 01:01,"Rotterdam",51.9179,4.4779,place
 1657/01/01 01:01,"Dordrecht",51.81,4.690093,place

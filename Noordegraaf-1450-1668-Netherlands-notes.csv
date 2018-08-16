@@ -34,7 +34,7 @@ name,latitude,longitude,type,notes
 "Medemblik",52.76745,5.106918,place,
 "Monnickendam",52.45557,5.0375,place,
 "Naarden",52.295544,5.16253,place,
-"Noorderkwartier",52.66785,4.822118,region,"https://en.wikipedia.org/wiki/Noorderkwartier = North Holland region"
+"Noorderkwartier";52.549903;4.826678;region;"https://en.wikipedia.org/wiki/Noorderkwartier = part of North Holland region. See also http://edepot.wur.nl/296605, page 750."
 "Noordholland",52.520588,4.788474,region,"Region. Basically the same region as Noorderkwartier"
 "Oud- en Nieuw-Matenesse",51.909325,4.4271045,place,"Now a burrough of Rotterdam, like Delfshaven. https://en.wikipedia.org/wiki/Oud-_en_Nieuw-Mathenesse"
 "Oudewater",52.025833,4.8682384,place,"Formerly a village."
