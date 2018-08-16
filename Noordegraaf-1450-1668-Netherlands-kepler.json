@@ -3,12 +3,12 @@
     {
       "version": "v1",
       "data": {
-        "id": "9ais29lvf",
+        "id": "ldy31eh8yk",
         "label": "Noordegraaf-1450-1668-Netherlands.csv",
         "color": [
-          0,
-          92,
-          255
+          143,
+          47,
+          191
         ],
         "allData": [
           [
@@ -320,6 +320,13 @@
             "place"
           ],
           [
+            "1523/01/01 01:01",
+            "Schoonhoven",
+            51.9475,
+            4.84939,
+            "place"
+          ],
+          [
             "1524/01/01 01:01",
             "Leiden",
             52.157776,
@@ -478,6 +485,13 @@
             "Gorinchem",
             51.836872,
             4.974998,
+            "place"
+          ],
+          [
+            "1555/01/01 01:01",
+            "Haarlem",
+            52.38079,
+            4.6422777,
             "place"
           ],
           [
@@ -681,13 +695,6 @@
             "Heukelum",
             51.87151,
             5.076667,
-            "place"
-          ],
-          [
-            "1568/01/01 01:01",
-            "Scheveningen",
-            52.103756,
-            4.28193,
             "place"
           ],
           [
@@ -1666,8 +1673,8 @@
           [
             "1624/01/01 01:01",
             "Noorderkwartier",
-            52.66785,
-            4.822118,
+            52.549903,
+            4.826678,
             "region"
           ],
           [
@@ -1722,8 +1729,8 @@
           [
             "1625/01/01 01:01",
             "Noorderkwartier",
-            52.66785,
-            4.822118,
+            52.549903,
+            4.826678,
             "region"
           ],
           [
@@ -2050,6 +2057,13 @@
           ],
           [
             "1637/01/01 01:01",
+            "Enkhuizen",
+            52.70559,
+            5.280714,
+            "place"
+          ],
+          [
+            "1637/01/01 01:01",
             "Gorinchem",
             51.836872,
             4.974998,
@@ -2261,8 +2275,8 @@
           [
             "1655/01/01 01:01",
             "Noorderkwartier",
-            52.66785,
-            4.822118,
+            52.549903,
+            4.826678,
             "region"
           ],
           [
@@ -2317,8 +2331,8 @@
           [
             "1656/01/01 01:01",
             "Noorderkwartier",
-            52.66785,
-            4.822118,
+            52.549903,
+            4.826678,
             "region"
           ],
           [
@@ -2326,6 +2340,13 @@
             "Naarden",
             52.295544,
             5.16253,
+            "place"
+          ],
+          [
+            "1656/01/01 01:01",
+            "Scheveningen",
+            52.103756,
+            4.28193,
             "place"
           ],
           [
@@ -2743,13 +2764,13 @@
       "visState": {
         "filters": [
           {
-            "dataId": "9ais29lvf",
-            "id": "zmfrky0ih",
+            "dataId": "ldy31eh8yk",
+            "id": "33akrhwci",
             "name": "DateTime",
             "type": "timeRange",
             "value": [
-              -11635636480000,
-              -11552148279000
+              -9977338308000,
+              -9852106015000
             ],
             "enlarged": true,
             "plotType": "histogram",
@@ -2758,15 +2779,15 @@
         ],
         "layers": [
           {
-            "id": "6g905vd",
+            "id": "pel8jt",
             "type": "point",
             "config": {
-              "dataId": "9ais29lvf",
+              "dataId": "ldy31eh8yk",
               "label": "Point",
               "color": [
-                19,
-                164,
-                171
+                119,
+                110,
+                87
               ],
               "columns": {
                 "lat": "latitude",
@@ -2775,19 +2796,19 @@
               },
               "isVisible": true,
               "visConfig": {
-                "radius": 15.5,
+                "radius": 16.1,
                 "fixedRadius": false,
                 "opacity": 0.8,
                 "outline": false,
                 "thickness": 2,
                 "colorRange": {
-                  "name": "ColorBrewer Dark2-3",
-                  "type": "qualitative",
-                  "category": "ColorBrewer",
+                  "name": "UberPool 3",
+                  "type": "diverging",
+                  "category": "Uber",
                   "colors": [
-                    "#1b9e77",
-                    "#d95f02",
-                    "#7570b3"
+                    "#213E9A",
+                    "#CA168E",
+                    "#F9E200"
                   ],
                   "reversed": false
                 },
@@ -2812,7 +2833,7 @@
         "interactionConfig": {
           "tooltip": {
             "fieldsToShow": {
-              "9ais29lvf": [
+              "ldy31eh8yk": [
                 "DateTime",
                 "name",
                 "type"
@@ -2831,10 +2852,10 @@
       "mapState": {
         "bearing": 0,
         "dragRotate": false,
-        "latitude": 52.181347920596664,
-        "longitude": 5.965062305784915,
+        "latitude": 52.103349333717745,
+        "longitude": 5.1057449715957715,
         "pitch": 0,
-        "zoom": 7.076587003333643,
+        "zoom": 6.807764332332191,
         "isSplit": false
       },
       "mapStyle": {
@@ -2854,6 +2875,6 @@
   },
   "info": {
     "app": "kepler.gl",
-    "created_at": "Wed Aug 15 2018 09:55:48 GMT+0200 (Central European Summer Time)"
+    "created_at": "Thu Aug 16 2018 16:00:36 GMT+0200 (Central European Summer Time)"
   }
 }
